@@ -1,0 +1,20 @@
+{
+  "name": "generator-chiunhau",
+  "version": "0.0.1",
+  "description": "A generator for very basic frontend app, in MY STYLE.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "file": [
+    "app"
+  ],
+  "author": "Chiun Hau You",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^0.22.5"
+  }
+}
